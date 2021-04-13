@@ -1,0 +1,50 @@
+body{
+    background-image: url('/bk.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    background-color: #00000096;
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    color: #fff;
+    font-family: 'Indie Flower', cursive;
+}
+form{
+    border: 2px solid;
+    color: #fff;
+    background-color: #00000096;
+    font-size: 15 px;
+    width:300px;
+    padding: 60px;
+
+}
+table{
+    width:200px;
+    text-align: center;
+   
+}
+p{
+    border: 1px solid white;
+    margin-top:30px;
+}
+table,th,td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    background-color: #00000096 ;
+    color: white;
+    
+}
+#leftDiv{
+    float: left;
+    width: 40%;
+}
+#rightDiv{
+    float:right;
+    
+}
+footer{
+    clear: both;
+    text-align: center;
+}
